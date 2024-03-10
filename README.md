@@ -4,10 +4,10 @@ ShoppingApp is a Flutter project for a mobile shopping application.
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/Kalpanathmajhi/shoppingApp/assets/71187581/ca356c73-c45e-425b-86b6-3c9d189e1f19)
-![Screenshot 2](https://github.com/Kalpanathmajhi/shoppingApp/assets/71187581/f2c49384-4f66-465b-891e-f475750d6a03)
-![Screenshot 3](https://github.com/Kalpanathmajhi/shoppingApp/assets/71187581/1291f261-79c7-40f7-baf9-6c7478a42d8b)
-![Screenshot 4](https://github.com/Kalpanathmajhi/shoppingApp/assets/71187581/fdbdf8ee-3eec-4568-811e-89af47f9596820989c7)
+(https://github.com/Kalpanathmajhi/shoppingApp/assets/71187581/ca356c73-c45e-425b-86b6-3c9d189e1f19)
+(https://github.com/Kalpanathmajhi/shoppingApp/assets/71187581/f2c49384-4f66-465b-891e-f475750d6a03)
+(https://github.com/Kalpanathmajhi/shoppingApp/assets/71187581/1291f261-79c7-40f7-baf9-6c7478a42d8b)
+(https://github.com/Kalpanathmajhi/shoppingApp/assets/71187581/fdbdf8ee-3eec-4568-811e-89af47f9596820989c7)
 
 ## Getting Started
 
